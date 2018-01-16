@@ -21,7 +21,7 @@ Add the training and testing samples into two folders in the current directory,n
 Alexnet was chosen for the implementation of a CatvsDog classifier using Tensorflow and python.(Check network graph for layer information)
 The network is trained on 18 images and validated on 2 images during training.
 
-The network is trained for just 10 epochs with a batch size of 16 with a learning rate of 1e-5.
+The network is trained for just 12 epochs with a batch size of 16 with a learning rate of 1e-5.
 
 The network manages to achieve a test accuracy of about 50-70%, measured from visual inspection of the 20 unknown test images. 
  
