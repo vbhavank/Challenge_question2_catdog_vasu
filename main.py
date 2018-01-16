@@ -1,4 +1,4 @@
-"""Code to detect pips in a dice using c++ and opencv 
+"""Code to classify between cat and dog using Tensorflow and Python 
 Author:Bhavan Vasu,
 Graduate research assistant,
 Real time and computer vision lab,
