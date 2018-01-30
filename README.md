@@ -1,4 +1,4 @@
-# Challenge_question2_catdog_vasu
+# Training a CNN with just 20 images
 
 
 Author: 
@@ -7,8 +7,7 @@ Graduate Research Assistant,
 Real-time and computer vision lab,
 Rochester Institute of Technology,
 New York-14623
-
-This repository contains solutions for the second challenge required to be completed for "Computer Vision app" position .
+bxv7657@rit.edu
 
 Requirements :
 1) Numpy
